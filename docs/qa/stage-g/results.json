@@ -1,0 +1,457 @@
+{
+  "browser": "Firefox",
+  "checks": [
+    {
+      "path": "/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/kuhni/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy-kupe/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/garderobnye/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/kuhni/linia/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/kuhni/balans/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/kuhni/atmosfera/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy/vertikal/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy/garmoniya/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy/elegant/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy-kupe/prostranstvo/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy-kupe/kontur/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy-kupe/panorama/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/garderobnye/poryadok/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/garderobnye/komfort/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/garderobnye/privat/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/teplyy-minimalizm/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/spokoynyy-ritm/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/chistaya-geometriya/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/lichnoe-prostranstvo/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/zamer/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/process/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/materials/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/about/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/faq/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/contacts/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/privacy/",
+      "width": 360,
+      "status": "pass"
+    },
+    {
+      "path": "/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/kuhni/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy-kupe/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/garderobnye/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/kuhni/linia/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/kuhni/balans/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/kuhni/atmosfera/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy/vertikal/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy/garmoniya/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy/elegant/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy-kupe/prostranstvo/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy-kupe/kontur/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy-kupe/panorama/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/garderobnye/poryadok/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/garderobnye/komfort/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/garderobnye/privat/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/teplyy-minimalizm/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/spokoynyy-ritm/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/chistaya-geometriya/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/lichnoe-prostranstvo/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/zamer/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/process/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/materials/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/about/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/faq/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/contacts/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/privacy/",
+      "width": 768,
+      "status": "pass"
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/kuhni/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy-kupe/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/garderobnye/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/kuhni/linia/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/kuhni/balans/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/kuhni/atmosfera/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy/vertikal/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy/garmoniya/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy/elegant/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy-kupe/prostranstvo/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy-kupe/kontur/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/shkafy-kupe/panorama/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/garderobnye/poryadok/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/garderobnye/komfort/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/catalog/garderobnye/privat/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/teplyy-minimalizm/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/spokoynyy-ritm/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/chistaya-geometriya/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/projects/lichnoe-prostranstvo/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/zamer/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/process/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/materials/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/about/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/faq/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/contacts/",
+      "width": 1440,
+      "status": "pass"
+    },
+    {
+      "path": "/privacy/",
+      "width": 1440,
+      "status": "pass"
+    }
+  ],
+  "interactions": "modal focus/Escape, both phones, no transmission/storage, gallery and manual carousel passed",
+  "runtimeErrors": []
+}
